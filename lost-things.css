@@ -1,0 +1,114 @@
+
+
+
+body{
+    width: 100vw;
+    height: 100vw;
+    font-family: DM Sans;
+    color: aliceblue;
+    color: white;
+    text-shadow: white 50px; 
+    background-color: black;
+    position: relative;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    margin-bottom: 2px; 
+    
+    
+}
+
+#beschreibung{
+    display; flex;
+    justify-content: center;
+    max-width: 40%;
+    text-align: left;
+    padding-left: 30%;
+    margin-top: 50px;
+}
+
+
+
+#Blitzerfoto{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 8%;
+    
+    
+    
+}
+
+#Blitzerfoto-text{
+    position: absolute;
+    margin-left: 55%;
+    text-align: center;
+    max-width: 20%;
+    margin-top: 25%;
+}
+
+#Post-it{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 450px;
+    
+}
+
+#Post-it-text{
+    position: absolute;
+    max-width: 20%;
+    text-align:center;
+    margin-left: 23%;
+    margin-top: 700px;
+    
+}
+
+#Photo-Box{
+    position: absolute;
+    margin-left: 15%;
+    
+    
+}
+
+#Photo-Box-text{
+    max-width: 20%;
+    text-align: center; 
+    margin-top: 270px;
+    margin-left: 15%;
+}
+
+#Presseausweis-text{
+    max-width: 20%;
+    text-align: center;
+    margin-left: 55%;
+    margin-top: 550px;
+    max-width: 30%;
+}
+
+#Presse2007{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 20%;
+    
+}
+.video-bg{
+    position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+    z-index: -1;
+}
+
+#digga{
+    text-align: center;
+    margin-top:100px;
+}
+
+
+
+
+
+
